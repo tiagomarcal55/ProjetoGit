@@ -1,1 +1,1 @@
-Olá esse projeto ensina você a usar o git
+Esse é o Readme do projeto
